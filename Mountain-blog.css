@@ -78,15 +78,3 @@ footer {
   border-top: solid 1px grey;
   text-align: center;
 }
-  z-index: 5;
-} */
-
-article {
-  margin-top: 0;
-  padding: 10px 110px 20px 110px;
-  background-color: white;
-}
-
-footer {
-  background-color: white;
-}
